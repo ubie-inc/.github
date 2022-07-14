@@ -1,10 +1,9 @@
 # Ubie, Inc.
 
-We're hiring!
+We're hiring!🙌
 
 https://recruit.ubie.life/engineer
 
-# OSS
+# Open source projects
 
-Our OSS projects
 https://github.com/ubie-oss
